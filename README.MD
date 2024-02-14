@@ -1,4 +1,4 @@
-# <center>![My Skills](https://skillicons.dev/icons?i=azure) <center> Microsoft Azure AI Fundamentals <center> Por: João Amazonas 
+# <center>![My Skills](https://skillicons.dev/icons?i=azure)  <center> Microsoft Azure AI Fundamentals  <center> Por: João Amazonas 
 
 <h3 align="center">Tem objetivo de mostrar os passos utilizados través do Learn da Microsoft para criar um laboratório de Machine Learning criando um modelo de previssao e após o modelo criado, criar um ponto de extremidade e testar esse pontro atraves de api rest via .json. Irei disponibilizar os links utilizados para reallizar o Desafio Trabalhando com Machine Learning na Prática no Azure ML</h3>
 
@@ -21,5 +21,6 @@ Após Create a New Resource siga os passos dessa documentação:   [https://micr
 # Ponto de Extremidade
 Após a criação do Modelo é hora de criar o Ponto de Extremidade Siga a documentação:   [https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#deploy-and-test-the-model](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#deploy-and-test-the-model)
 
-# Arquivo .JSON
+
+# Arquivo .JSON 
 Para teste Final de Ponto de Extremidade
